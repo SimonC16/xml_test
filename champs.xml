@@ -1,0 +1,16 @@
+<champs>
+   <champ name="aatrox">
+       <level num="1">
+	      <hp>765</hp>
+          <mp>0</mp> </level>
+	   <level num="2">
+	      <hp>810</hp>
+		  <mp>0</mp> </level> </champ>
+   <champ name="ahri">
+       <level num="1">
+          <hp>550</hp>
+          <mp>335</mp> </level> 
+	   <level num="2">
+	      <hp>580</hp>
+		  <mp>400</mp> </level> </champ>
+</champs>
